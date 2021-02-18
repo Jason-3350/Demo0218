@@ -1,1 +1,4 @@
 print ('This is only practise')
+
+def fun1():
+    pass
